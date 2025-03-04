@@ -1,4 +1,4 @@
-module protos
+module github.com/leotapok/protos
 
 go 1.23.0
 
